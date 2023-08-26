@@ -1,3 +1,13 @@
+# Sara Huang's First CS193 Homework
+
+Favorite things about CS193 
+- Instructors are students which makes the class feel more relatable
+- Class helps me learn about some CS tools that'll help me in the future
+- Quick answers on Ed Discussion
+- The class helps you meet more people in your major 
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
